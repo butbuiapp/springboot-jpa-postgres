@@ -1,7 +1,7 @@
 # springboot-jpa-postgres
 
-Springboot
-Spring Data JPA
-Postgres
-RESTful API
-Postman
+# Springboot
+# Spring Data JPA
+# Postgres
+# RESTful API
+# Postman
